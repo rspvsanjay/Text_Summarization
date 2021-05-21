@@ -4,4 +4,6 @@ This project is made for text summarization which is code in java and html. You 
 
 This project is extended version of following research work:
 
-Title: "ESUM: An Efficient System for Query-Specific Multi-document Summarization"
+Title: "ESUM: An Efficient System for Query-Specific Multi-document Summarization" 
+
+The above research paper can be found by the link : https://link.springer.com/chapter/10.1007/978-3-642-00958-7_74
