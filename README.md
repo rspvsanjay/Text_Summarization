@@ -1,4 +1,4 @@
-# yss2015000906
+# Text Summarization
 
 This project is made for text summarization which is code in java and html. You may read the README.docx file to run the project in local system.
 
