@@ -1,6 +1,6 @@
 # Text Summarization
 
-This project is made for text summarization which is code in java and html. You may read the Instruction file to run the project in local system.
+This project is made for text summarization which is coded in java and html. You may read the Instruction file to run the project in local system.
 
 The project already deployed in heroku server which is available online, that can be access by the following link: https://yss2015000906.herokuapp.com/
 
